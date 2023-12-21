@@ -1,0 +1,9 @@
+.DS_Store
+.hugo_build.lock
+themes/dark-theme-editor/.DS_Store
+themes/dark-theme-editor/.eslintrc.json
+themes/dark-theme-editor/.github/
+themes/dark-theme-editor/.gitignore
+themes/dark-theme-editor/.prettierignore
+themes/dark-theme-editor/.prettierrc.json
+themes/dark-theme-editor/images/headshot.jpg

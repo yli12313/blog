@@ -39,7 +39,7 @@
                 # 1. the footer of all page
                 # 2. the author filed in the single page. (this could be overwritten by the frontmatter of the single page.)
                 # Keep it an empty string or remove this item will hide it from the page
-                author = "Jing Wang"
+                author = "Yingquan Li"
 
                 # Website description for RSS and SEO. Theme will generate a <meta> tag for this item
                 description = "This is my new hugo site"
@@ -50,7 +50,7 @@
             [languages.en.params.homePage]
 
                 # Long Descripition shown in home page "Start Block". Is is recommended to have the paragraph shorter than 100 words.
-                siteLongDescription = "Hugo is a fast and easy-to-use static website generator written in Go. It renders a complete HTML website from content and templates in a directory, utilizing Markdown files for metadata. It's optimized for speed and suitable for various website types."
+                siteLongDescription = "This is by new blog."
 
                 # If you don't like the title of "siteLongDescription" be "Start" (default),
                 # you may change the value of this item to "Description" or something you like.
@@ -130,7 +130,7 @@
                 # 1. im Footer auf allen Seiten
                 # 2. dem Autorenfeld auf der Einzelseite. (dies kann durch das Frontmatter der Einzelseite überschrieben werden.)
                 # Lassen Sie es leer oder entfernen Sie diesen Eintrag, um ihn von der Seite auszublenden.
-                author = "Jing Wang"
+                author = "Yingquan Li"
 
                 # Website-Beschreibung für RSS und SEO. Das Theme generiert ein <meta>-Tag für diesen Eintrag
                 description = "Das ist meine neue Hugo-Website"

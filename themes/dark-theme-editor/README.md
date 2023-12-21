@@ -182,7 +182,7 @@ This will install the theme repository as a submodule in the `themes/dark-theme-
             # 1. the footer of all page
             # 2. the author filed in the single page. (this could be overwritten by the frontmatter of the single page.)
             # Keep it an empty string or remove this item will hide it from the page
-            author = "Jing Wang"
+            author = "Yingquan Li"
             
             # Website description for RSS and SEO. Theme will generate a <meta> tag for this item
             description = "This is my new hugo site"
@@ -290,7 +290,7 @@ This will install the theme repository as a submodule in the `themes/dark-theme-
                     # 1. the footer of all page
                     # 2. the author filed in the single page. (this could be overwritten by the frontmatter of the single page.)
                     # Keep it an empty string or remove this item will hide it from the page
-                    author = "Jing Wang"
+                    author = "Yingquan Li"
                     
                     # Website description for RSS and SEO. Theme will generate a <meta> tag for this item
                     description = "This is my new hugo site"
@@ -381,7 +381,7 @@ This will install the theme repository as a submodule in the `themes/dark-theme-
                     # 1. im Footer auf allen Seiten
                     # 2. dem Autorenfeld auf der Einzelseite. (dies kann durch das Frontmatter der Einzelseite überschrieben werden.)
                     # Lassen Sie es leer oder entfernen Sie diesen Eintrag, um ihn von der Seite auszublenden.
-                    author = "Jing Wang"
+                    author = "Yingquan Li"
                     
                     # Website-Beschreibung für RSS und SEO. Das Theme generiert ein <meta>-Tag für diesen Eintrag
                     description = "Das ist meine neue Hugo-Website"

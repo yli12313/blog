@@ -62,10 +62,15 @@
     # Customized info shown in header of the page
     [params.header]
         # Website title for header banner.
-        title = "My New Hugo Site"
+        title = "Let's blog!"
+
+    
+        ## My changes ##
+        my_title = "Hey there!"
+        path = "https://cdn.sanity.io/images/tlr8oxjg/production/f0a4a4cffc25b2f7253300a27c58687a28808c7a-1456x816.png?w=3840&q=80&fit=clip&auto=format"
 
         # Subtitle for this site, used in homepage only
-        subtitle = "A Site Built by Hugo"
+        subtitle = "A Site for Learning"
 
         # Config about your's site logo, remove this item to hide the logo
         [params.header.logo]
@@ -131,7 +136,7 @@
         # 1. the footer of all page
         # 2. the author filed in the single page. (this could be overwritten by the frontmatter of the single page.)
         # Keep it an empty string or remove this item will hide it from the page
-        author = "Jing Wang"
+        author = "Yingquan Li"
         
         # Website description for RSS and SEO. Theme will generate a <meta> tag for this item
         description = "This is my new hugo site"
@@ -142,11 +147,11 @@
     # Parameters applied in the homepage only
     [params.homePage]
         # Long Descripition shown in home page "Start Block". Is is recommended to have the paragraph shorter than 100 words.        
-        siteLongDescription = "Hugo is a fast and easy-to-use static website generator written in Go. It renders a complete HTML website from content and templates in a directory, utilizing Markdown files for metadata. It's optimized for speed and suitable for various website types."
+        siteLongDescription = "Hey this made a change!"
 
         # If you don't like the title of "siteLongDescription" be "Start" (default), 
         # you may change the value of this item to "Description" or something you like.
-        siteLongDescriptionTitle = "Start"
+        siteLongDescriptionTitle = "About Me:"
 
         # Param to decide whether to show the most recent blog posts or not. (Default: true)
         showRecentPostsBlock = true

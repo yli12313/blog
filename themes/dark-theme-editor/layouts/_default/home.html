@@ -2,17 +2,20 @@
     <article class="main">
         {{ partial "module/sidebar_btn" . }}
 
-
+        
         <div class="home">
             <div class="title">
-                <h1 class="title-caption">{{ $.Site.Params.header.title }}</h1>
-
+                <h1 class="title-caption">{{ $.Site.Params.header.my_title }}</h1>
+            
                 {{ with $.Site.Params.header.subtitle }}
                     <h2 class="subtitle">
                         {{ . }}
                     </h2>
                 {{ end }}
             </div>
+
+            <img src="{{ $.Site.Params.header.path }}" alt="" width="500" height="300" />
+
             <div class="recommend">
                 <div class="left">
                     <div class="start">
@@ -39,14 +42,14 @@
                                             title=".{{ .RelPermalink }}"
                                             >{{ $page.Title }}</a
                                         >
-                                        {{ with $.Site.Params.homePage.recentPostShowUrl }}
+                                        <!-- {{ with $.Site.Params.homePage.recentPostShowUrl }}
                                             <span
                                                 class="recent-posts-items-path"
                                                 title=".{{ $page.RelPermalink }}">
                                                 .
                                                 {{ $page.RelPermalink }}
                                             </span>
-                                        {{ end }}
+                                        {{ end }} -->
                                     </li>
                                 {{ end }}
                             </ul>

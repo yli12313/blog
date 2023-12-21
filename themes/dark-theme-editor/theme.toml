@@ -8,7 +8,7 @@ tags = ["multilingual", "dark", "responsive", "technical", "editor", "Docs"]
 features = ["multilingual", "syntax highlighting", "responsive"]
 
 [author]
-    name = "Jing Wang"
+    name = "Yingquan Li"
     homepage = "https://github.com/JingWangTW"
 
 [origin]
