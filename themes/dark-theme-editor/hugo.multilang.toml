@@ -32,7 +32,7 @@
 
             [languages.en.params.footer]
                 # CopyRight string shown in the footer. Keep it an empty string or remove this item will hide it from the page.
-                copyrightStr = "All Rights Reserved ®."
+                copyrightStr = "All Rights Reserved ® 2023."
 
             [languages.en.params.globalFrontmatter]
                 # The author of this site. This will be shown in

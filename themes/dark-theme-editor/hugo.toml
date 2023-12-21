@@ -66,7 +66,7 @@
 
     
         ## My changes ##
-        my_title = "Hey there!"
+        my_title = "Hey there netizen!"
         path = "https://cdn.sanity.io/images/tlr8oxjg/production/f0a4a4cffc25b2f7253300a27c58687a28808c7a-1456x816.png?w=3840&q=80&fit=clip&auto=format"
 
         # Subtitle for this site, used in homepage only
@@ -84,7 +84,7 @@
     # Customized info shown in footer of the page
     [params.footer]
         # CopyRight string shown in the footer. Keep it an empty string or remove this item will hide it from the page.
-        copyrightStr = "All Rights Reserved ®."
+        copyrightStr = "All Rights Reserved ® 2024."
 
         # Should show the counter in the footer or not
         # In the home page, it will show the numbers of all pages
@@ -147,11 +147,11 @@
     # Parameters applied in the homepage only
     [params.homePage]
         # Long Descripition shown in home page "Start Block". Is is recommended to have the paragraph shorter than 100 words.        
-        siteLongDescription = "Hey this made a change!"
+        siteLongDescription = "Welcome to the launch of my blog! This is a place for me to curate and blog about my learnings. I hope to focus on a different topics such as: technology, engineering, finance and my own toughts. Maybe it will help you too. Thank you for checking out my blog! - Y (Thu. 12/21/23 @ 5:59 PM EST)"
 
         # If you don't like the title of "siteLongDescription" be "Start" (default), 
         # you may change the value of this item to "Description" or something you like.
-        siteLongDescriptionTitle = "About Me:"
+        siteLongDescriptionTitle = "About Me 📚"
 
         # Param to decide whether to show the most recent blog posts or not. (Default: true)
         showRecentPostsBlock = true

@@ -122,6 +122,17 @@ article.main
     color: floralwhite;
 }
 
+.custom-title {
+font-size: 1.4em;
+    line-height: 1.4em;
+    white-space: nowrap;
+    margin-top: 8pt;
+    margin-bottom: 8pt;
+    color: lightblue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 article.main > div.home > div.recommend > div.left {
     padding-right: 25pt;
 }
