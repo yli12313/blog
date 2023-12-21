@@ -6,4 +6,7 @@ draft = false
 
 Hello!!! [help](https://www.yahoo.com)
 
-![image info](themes/dark-theme-editor/images/screenshot.png)
+![image](images/screenshot.png)
+
+<!-- images/screenshot.png
+/Users/the-greatest/blog/images/screenshot.png -->
