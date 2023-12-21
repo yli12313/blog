@@ -67,6 +67,7 @@
     
         ## My changes ##
         my_title = "Hey there netizen!"
+        # Path to the stock image
         path = "https://cdn.sanity.io/images/tlr8oxjg/production/f0a4a4cffc25b2f7253300a27c58687a28808c7a-1456x816.png?w=3840&q=80&fit=clip&auto=format"
 
         # Subtitle for this site, used in homepage only
