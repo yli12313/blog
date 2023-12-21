@@ -5,3 +5,5 @@ draft = false
 +++
 
 Hello!!! [help](https://www.yahoo.com)
+
+![image info](themes/dark-theme-editor/images/screenshot.png)
