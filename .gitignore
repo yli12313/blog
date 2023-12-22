@@ -7,3 +7,4 @@ themes/dark-theme-editor/.gitignore
 themes/dark-theme-editor/.prettierignore
 themes/dark-theme-editor/.prettierrc.json
 themes/dark-theme-editor/images/headshot.jpg
+public/
