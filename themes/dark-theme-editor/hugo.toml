@@ -71,7 +71,7 @@
         path = "https://cdn.sanity.io/images/tlr8oxjg/production/f0a4a4cffc25b2f7253300a27c58687a28808c7a-1456x816.png?w=3840&q=80&fit=clip&auto=format"
 
         # Subtitle for this site, used in homepage only
-        subtitle = "A Site for Learning"
+        subtitle = "A Blog for Learning"
 
         # Config about your's site logo, remove this item to hide the logo
         [params.header.logo]

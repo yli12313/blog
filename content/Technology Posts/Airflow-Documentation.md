@@ -6,3 +6,7 @@ draft = false
 
 TBD.
 
+```python
+print('hello')
+```
+
