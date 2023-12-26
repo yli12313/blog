@@ -7,3 +7,4 @@ draft = false
 - This is how you create a link to [Yahoo](https://www.yahoo.com).
 - This is how you link image in the static directory.
 ![image](/blog/screenshot.png)
+- This is an important command: `hugo --cleanDestinationDir`.
