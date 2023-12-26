@@ -22,10 +22,10 @@ I just finished watching a three-part documentary from 2002 called **The Command
 * One country that did not adhere to free markets was the Soviet Union. A global superpower in terms of science and technology, the Soviet Union was still a state-run enterprise in pretty much all of it's economic industries, especially the "commanding height" industries, such as energy, oil, mining, etc. This system worked well when oil prices were high, but terrible when oil prices dropped. Furthermore, inefficiency in state-run enterprises could not spur productivity because there was no competition. The Soviet Union suffered major economic problems in the 1980s culminating in the fall of the Soviet Union in 1991.
 * Milton Friedman and the "Chicago School of Economics" had a famous case study when they were brought in to grow the economy of Chile. By embracing free markets, competition, and no central planning, this lead to a transformation in the Chilean economy and led to Chile turning into democracy. Chile subsequently became the fastest growing economy in Latin America.
 
- #### Episode Three - The New Rules of the Game
- * In the 90s the world started changing once again. The vast majority started embracing capitalism in the form of free market economics and the world was more integrated than ever.
- * Through organization such as the _World Trade Organization_, the practice of free trade among nations and interconnected economies (i.e. **globalization**) was becoming the dominant paradigm.
- * There are however large and loud forces who believe that globalization is something that only favors the corporations and the plutocrats, leaving the ordinary person behind; this is a very fair point. How do we navigate these challenges?
+#### Episode Three - The New Rules of the Game
+* In the 90s the world started changing once again. The vast majority started embracing capitalism in the form of free market economics and the world was more integrated than ever.
+* Through organization such as the _World Trade Organization_, the practice of free trade among nations and interconnected economies (i.e. **globalization**) was becoming the dominant paradigm.
+* There are however large and loud forces who believe that globalization is something that only favors the corporations and the plutocrats, leaving the ordinary person behind; this is a very fair point. How do we navigate these challenges?
 * With the rise of the internet and telecommunications technologies, the world is now smaller and anyone can become an entrepreneur. 
 
 
