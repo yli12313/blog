@@ -4,7 +4,7 @@ date = 2023-12-25T21:53:38-05:00
 draft = false
 +++
 
-![test](/blog/20231225_Commanding_Heights/title.png)
+![p1](/blog/20231225_Commanding_Heights/title.png)
 
 
 I just finished watching a documentary series from 2002 called **The Commanding Heights** based on the book by _Daniel Yergin_ and _Joseph Stanislaw_. This was a really interesting documentary series that I first learned about from an article on the personal finance website [Investopedia](https://www.investopedia.com/articles/professionals/100215/10-must-watch-documentaries-finance-professionals.asp). This documentary series is a three-part series that goes through the history of economics from it's foundation to present day (i.e. the 21st century). Yes, the documentary is super dated because it came out in 2002; I could tell that it was pretty dated because of the music, the advertisements shown, and the people who were interviewed. However, sometimes we can learn a lot from the past and this documentary series is really educational for anyone interested in learning more about economics and global finance. I will summarize my key learnings from each part of the documentary right here.
@@ -31,5 +31,5 @@ I just finished watching a documentary series from 2002 called **The Commanding 
 
 I really enjoyed this documentary series because there are a lot of lessons in here. This was made 20+ years ago and looking back over what I've experienced since then, it's so true that macroeconomic forces has a big part in a person's life that's beyond his or her control. There was a story featured in Episode Three of an entrepreneur in Thailand who was not used to capitalism and easy credit. When capitalism came to Thailand, he used leverage to buy multi-tenant apartment buildings that were very lucrative during economic boom times. However when the the economy changed, his over-leveraged positions resulted in losses and then the eventual liquidation of all his hard assets. It's a tough pill to swollow. I guess the biggest takeaway from this documentary is that the world is always changing and it's never going to stop changing. You can never predict where the economy is going to go, but you know one thing: it's going to change. The people who get left behind in the global economy are the people who are not learning. As long as you are learning, indentifying new opportunities, and making the most of any opportunities present in front of you, then you should do ok overall. 
 
-
+![p2](/blog/20231225_Commanding_Heights/20231226_economists.png)
 
