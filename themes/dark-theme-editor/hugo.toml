@@ -152,7 +152,7 @@
 
         # If you don't like the title of "siteLongDescription" be "Start" (default), 
         # you may change the value of this item to "Description" or something you like.
-        siteLongDescriptionTitle = "About Me (Click Here) 📚"
+        siteLongDescriptionTitle = "About Me 📚"
 
         # Param to decide whether to show the most recent blog posts or not. (Default: true)
         showRecentPostsBlock = true
