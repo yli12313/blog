@@ -8,7 +8,7 @@
 <div class="codeblock">
     {{ with $.Page.Site.Params.page.codeBlockCopible }}
         <div class="copy-button-box">
-            <button class="copy-button" state="copy" data="{{ $.Inner }}">
+            <button class="copy-button" state="copy" data="{{ $.Inner | safeURL }}">
                 <i class="bi bi-copy"></i>
             </button>
         </div>
