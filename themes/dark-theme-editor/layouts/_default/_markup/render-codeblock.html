@@ -4,19 +4,19 @@
 {{ $lang  := .Attributes.lang  | default .Type }}
 {{ $opts  := .Options | default dict }}
 
-<div style="overflow-x: auto; background-color: #272822; margin-top: 10px; margin-bottom: 10px;">
-    <div class="codeblock" >
-        <!-- {{ with $.Page.Site.Params.page.codeBlockCopible }}
-            <div class="copy-button-box" id="copyButton">
-                <button class="copy-button" state="copy" data="{{ $.Inner | safeURL }}">
-                    <i class="bi bi-copy"></i>
-                </button>
-            </div>
-        {{ end }} -->
-        {{ if transform.CanHighlight $lang }}
-            {{ highlight .Inner $lang $opts }}
-        {{ else }}
-                <pre><code>{{ .Inner }}</code></pre>
-        {{ end }}
-    </div>
+
+<div class="codeblock" style="overflow-x: auto; background-color: #272822; margin-top: 10px; margin-bottom: 10px;">
+    <!-- {{ with $.Page.Site.Params.page.codeBlockCopible }}
+        <div class="copy-button-box">
+            <button class="copy-button" state="copy" data="{{ $.Inner | safeURL }}">
+                <i class="bi bi-copy"></i>
+            </button>
+        </div>
+    {{ end }} -->
+
+    {{ if transform.CanHighlight $lang }}
+        {{ highlight .Inner $lang $opts }}
+    {{ else }}
+        <pre><code>{{ .Inner }}</code></pre>
+    {{ end }}
 </div>
