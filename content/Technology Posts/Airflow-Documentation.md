@@ -10,7 +10,7 @@ draft = false
 # [Fundamental Concepts](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/fundamentals.html)
 "An Airflow pipeline is just a Python script that happens to define an Airflow DAG object."
 
-**Example DAG**
+**Example DAG**:
 ```python
 import textwrap
 from datetime import datetime, timedelta
@@ -75,7 +75,7 @@ with DAG(
    t1 >> [t2, t3]
 ```
 
-**Command Line Metadata Validation**
+**Command Line Metadata Validation**:
 ```python
 # initialize the database tables
 airflow db migrate
@@ -93,14 +93,14 @@ airflow tasks list tutorial
 airflow tasks list tutorial --tree
 ```
 
-**Command Layout**
+**Command Layout**:
 ```python
 # command layout: command subcommand [dag_id] [task_id] [(optional) date]
 ```
 
 # [Working with TaskFlow](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/taskflow.html)
 
-**Example "TaskFlow API" Pipeline**
+**Example "TaskFlow API" Pipeline**:
 ```python
 import json
 import pendulum
