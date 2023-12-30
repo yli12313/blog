@@ -110,7 +110,8 @@ article.main > div.content li li li {
 ***************/
 article.main > div.content img {
     height: auto;
-    width: auto;
+    max-width: 100%;
+    min-width: 300px;
 
 }
 
