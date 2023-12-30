@@ -4,17 +4,19 @@
 
 
     <body>
-        {{ partial "header.html" . }}
+        <div style="overflow-x: hidden;">
+            {{ partial "header.html" . }}
 
 
-        <main>
-            {{ partial "sidebar.html" . }}
+            <main>
+                {{ partial "sidebar.html" . }}
 
-            {{ block "main_article" . }}
-            {{ end }}
-        </main>
+                {{ block "main_article" . }}
+                {{ end }}
+            </main>
 
-        {{ partial "footer.html" . }}
+            {{ partial "footer.html" . }}
+        </div>
     </body>
 
     {{ partial "html_footer.html" . }}
