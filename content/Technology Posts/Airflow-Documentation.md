@@ -80,14 +80,11 @@ with DAG(
 # initialize the database tables
 airflow db migrate
 
-
 # print the list of active DAGs
 airflow dags list
 
-
 # prints the list of tasks in the "tutorial" DAG
 airflow tasks list tutorial
-
 
 # prints the hierarchy of tasks in the "tutorial" DAG
 airflow tasks list tutorial --tree
