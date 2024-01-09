@@ -14,3 +14,5 @@ I just tried executing the command: `=GOOGLEFINANCE(“MES”, “price”, DATE
 ![p1](/blog/20240109_Google_Finance/data.png)
 
 The only thing that I think could be improved upon would be to get multiple attributes in tabular form with one command. Right now, you can only get one attribute with one command and that makes it so that you have to write many commands. For a quick way to get financial data, Google Finance integrated into Google Sheets is definitely not bad!
+
+Update: For the historic data, there is an `all` feature that will grab the attributes - Open, High, Low, Close, and Volume.
