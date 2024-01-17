@@ -14,7 +14,7 @@ draft = false
 ```python
 import textwrap
 from datetime import datetime, timedelta
-from airflow.models.dog import DAG
+from airflow.models.dag import DAG
 from airflow.operators.bash import BashOperator
 
 with DAG(
