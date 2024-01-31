@@ -4,9 +4,11 @@ date = 2024-01-30T18:11:15-05:00
 draft = false
 +++
 
+![p1](/blog/20240130_Volunteering_MTHS/robot.png)
+
 I’ve recently started volunteering again for the non-profit organization **RESET** (**R**aising **E**xcitment for Science, **E**ngineering, and **T**echnology) after an almost two year hiatus. I last volunteered for RESET from Fall,2019 - Spring,2022. In previous volunteering opportunities, I was always working with middle school students teaching Scratch (which is a programming language that is geared towards middle school students to get them interested in coding), but this year I’m working with high school students on a robotics competition at **McKinley Technology High School** in NE, Washington D.C. The students are high school sophomores to seniors and some of them are quite advanced in their technical abilities. Some are extremely strong in electrical and mechanical engineering whereas others are extremely strong in software engineering. It’s very clear to me that some of them are going to excel when they go to college to study any of the engineering disciplines. 
 
-The robot that the team is trying to build is for the **First Robotics Competition** (*see picture below*). This is a YouTube [video](https://www.youtube.com/watch?v=iOz55ATplok&ab_channel=UnqualifiedQuokkas) from another team that demonstrates the full repertoire of the robot and what it should do in order to win the maximum number of points in the competition. As you can see from the video, the robot has to move autonomously around an obstacle course and intake orange plastic rings. Then the robot has to shoot the rings into designated receptacles from near and far distances. Ideally in the end, the robot is also able to leverage a robotic arm for climbing purposes. The movement around the obstacle course has to be precise, the intake of the orange rings has to be precise, and the shooting of the orange rings into receptacles has to be precise, with enough velocity to hit the target but not overshoot it. 
+The robot that the team is trying to build is for the **First Robotics Competition** (*see picture above*). This is a YouTube [video](https://www.youtube.com/watch?v=iOz55ATplok&ab_channel=UnqualifiedQuokkas) from another team that demonstrates the full repertoire of the robot and what it should do in order to win the maximum number of points in the competition. As you can see from the video, the robot has to move autonomously around an obstacle course and intake orange plastic rings. Then the robot has to shoot the rings into designated receptacles from near and far distances. Ideally in the end, the robot is also able to leverage a robotic arm for climbing purposes. The movement around the obstacle course has to be precise, the intake of the orange rings has to be precise, and the shooting of the orange rings into receptacles has to be precise, with enough velocity to hit the target but not overshoot it. 
 
 I’ve always enjoyed working for RESET because of what I learn about myself everytime. I find that when I’m working/helping young people, I learn more from them than they learn from me. The way that I’ve tried to add value to the team is to help them with: 
 
@@ -21,5 +23,3 @@ I could see myself eventually getting my hands dirty and doing some of the elect
 
 Pretty cool! 💯
 
-
-![p1](/blog/20240130_Volunteering_MTHS/robot.png)
