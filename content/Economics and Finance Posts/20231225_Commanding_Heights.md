@@ -1,5 +1,5 @@
 +++
-title = 'Review: The Commanding Heights (2002 Documentary)'
+title = 'Documentary Review: The Commanding Heights (2002 Documentary)'
 date = 2023-12-25T21:53:38-05:00
 draft = false
 +++
