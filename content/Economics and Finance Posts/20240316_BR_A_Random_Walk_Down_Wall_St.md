@@ -1,5 +1,5 @@
 +++
-title = 'Book Review: A Random Down Wall St.'
+title = 'Book Review: A Random Walk Down Wall St.'
 date = 2024-03-16T22:52:38-04:00
 draft = false
 +++
