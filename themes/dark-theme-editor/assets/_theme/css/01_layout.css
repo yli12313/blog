@@ -4,6 +4,11 @@
 
 @charset "UTF-8";
 
+.video-shortcode {
+    max-width: 50%;
+    max-height: 500px;
+}
+
 :root {
     /*
         3pt: expand bar
