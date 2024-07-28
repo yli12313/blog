@@ -10,11 +10,11 @@ I try to read one biography or autobiography a year and I just finished reading 
 
 Man, war is brutal and this was definitely a hard read (mostly because of trying to pronounce ethnic Gallic names). However, this book had some gems if one was patient enough to sift through the book and pay careful attention. There were so many life lessons and truths in the book that I want to highlight the seven quotes I loved the most. These quotes offer wisdom about **life** and how to be a **good leader**. Maybe it will help you too!
 
-### Here We Go
+# Here We Go
 
 > 1. “*In my own case you can look at my whole life for evidence of my **integrity** and you can recall the Helvetian campaign for evidence of my fortune in war.*” 
 
-The number one key to being a good leader is integrity. If you don’t have integrity then you have no chance of being a good leader. Integrity means doing what you say you will and adhering to the belief that: “If I say something, then other people are depending on me, and therefore I must deliver results.” Putting good energy into the world will often reverberant and get back to you in auspicious ways.
+Here Caesar makes an astonding point: our fortunes often tie back in the end to our **integrity**. The number one key to being a good leader is integrity. If you don’t have integrity then you have no chance of being a good leader. Integrity means doing what you say you will and adhering to the belief that: “If I say something, then other people are depending on me, and therefore I must deliver results.” Putting good energy into the world will often reverberant and get back to you in auspicious ways.
 
 > 2. “*Our men showed the most remarkable courage and energy, but were confronted by all sorts of contrivances on the part of the Gauls, who are indeed a most ingenious race, wonderful imitators, and very good at making **practical** use of ideas suggested to them by others.*”
 
@@ -30,7 +30,7 @@ Conjoined to being practical, it’s always about action and not words. Don’t 
 
 > 5. “*The chief safeguards of good **discipline** are a sense of **honor** and **fear**, neither of which operate well by night.*”
 
-**Discipline = honor + fear**. This is something new that I have never heard of before until now. Such a simple and beautiful definition of what discipline is. Honor means you want to do good for others and yourself. Fear means you don’t want to disappoint those closest to you or yourself. This potent combination is what creates an incredible drive and self-discipline. 
+**Discipline = honor + fear**. This is a totally new idea that I have never heard of before and it's magical. Such a simple, yet beautiful definition of what true discipline is. Honor means you want to do good for others and yourself. Fear means you don’t want to disappoint those closest to you or yourself. This potent combination is what creates an incredible drive and self-discipline. 
 
 > 6. “*I reminded them of how I had always and invariably thought of the interests of my men (**service**).*”
 
