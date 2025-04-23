@@ -1,5 +1,6 @@
 {{ $context := .context }}
 {{ $currentPage := .currentPage }}
+{{ $sortAlphabetically := .sortAlphabetically | default false }}
 
 {{ with $context }}
     {{ $page_children := where ( union .Sections .Pages ) "Kind" "page" }}
@@ -7,6 +8,11 @@
 
     {{/* show page child first than section child */}}
     {{ $children := $section_children | append $page_children }}
+
+    {{/* Sort children alphabetically if requested */}}
+    {{ if $sortAlphabetically }}
+        {{ $children = $children.ByTitle }}
+    {{ end }}
 
 
     <ul class="section-tree">
@@ -20,7 +26,7 @@
                     {{ end }}>
                     <span class="dir-text"> {{ .Title }} </span>
 
-                    {{ partial "module/section_tree" ( dict "context" . "currentPage" $currentPage ) }}
+                    {{ partial "module/section_tree" ( dict "context" . "currentPage" $currentPage "sortAlphabetically" $sortAlphabetically ) }}
                 </li>
             {{ else }}
                 <li class="file">
