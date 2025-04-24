@@ -1,5 +1,5 @@
 +++
-title = 'Space Expoloration Adventures (Fall, 2024)'
+title = '7. Space Expoloration Adventures (Fall, 2024)'
 date = 2024-10-25T01:03:36-04:00
 draft = false
 +++

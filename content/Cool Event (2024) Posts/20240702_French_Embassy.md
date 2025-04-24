@@ -1,5 +1,5 @@
 +++
-title = 'Summer Soirée at the French Embassy! 🇫🇷'
+title = '3. Summer Soirée at the French Embassy! 🇫🇷'
 date = 2024-07-02T22:54:50-04:00
 draft = false
 +++
