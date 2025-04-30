@@ -1,6 +1,7 @@
 {{ $context := .context }}
 {{ $currentPage := .currentPage }}
 {{ $sortAlphabetically := .sortAlphabetically | default false }}
+{{ $sortSubsectionsByDate := .sortSubsectionsByDate | default false }}
 
 {{ with $context }}
     {{ $page_children := where ( union .Sections .Pages ) "Kind" "page" }}
@@ -14,7 +15,6 @@
         {{ $children = $children.ByTitle }}
     {{ end }}
 
-
     <ul class="section-tree">
         {{ range $children }}
             {{ if .IsNode }}
@@ -26,7 +26,11 @@
                     {{ end }}>
                     <span class="dir-text"> {{ .Title }} </span>
 
-                    {{ partial "module/section_tree" ( dict "context" . "currentPage" $currentPage "sortAlphabetically" $sortAlphabetically ) }}
+                    {{ if $sortSubsectionsByDate }}
+                        {{ partial "module/section_tree" ( dict "context" . "currentPage" $currentPage "sortAlphabetically" false "sortSubsectionsByDate" true ) }}
+                    {{ else }}
+                        {{ partial "module/section_tree" ( dict "context" . "currentPage" $currentPage "sortAlphabetically" $sortAlphabetically ) }}
+                    {{ end }}
                 </li>
             {{ else }}
                 <li class="file">

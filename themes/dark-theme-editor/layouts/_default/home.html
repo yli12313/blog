@@ -55,7 +55,7 @@
                     <h3 class="recommend-title">
                         {{ i18n "walkthroughs"  | title }}
                     </h3>
-                    {{ partial "module/section_tree" ( dict "context" . "currentPage" . "sortAlphabetically" true ) }}
+                    {{ partial "module/section_tree" ( dict "context" . "currentPage" . "sortAlphabetically" true "sortSubsectionsByDate" true ) }}
                 </div>
             </div>
         </div>

@@ -1,5 +1,5 @@
 +++
-title = '1. Volunteering at George Hacks'
+title = 'Volunteering at George Hacks'
 date = 2025-04-23T16:29:45-04:00
 draft = false
 +++

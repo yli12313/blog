@@ -1,5 +1,5 @@
 +++
-title = '5. Brave New Voices International Youth Poetry Slam (Finals, 2024)'
+title = 'Brave New Voices International Youth Poetry Slam (Finals, 2024)'
 date = 2024-08-10T08:23:12-04:00
 draft = false
 +++
