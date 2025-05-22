@@ -21,11 +21,12 @@
                 <div class="left">
                     <div class="start">
                         {{ with $.Site.Params.homePage.siteLongDescription }}
-                            <a href="https://yli12313.github.io/" target="_blank">
-                                <h3 class="custom-title">
+                            <a href="https://yli12313.github.io/" target="_blank" style="display: inline-block;">
+                                <h3 class="custom-title" style="display: inline-block; margin: 0;">
                                     {{ $.Site.Params.homePage.siteLongDescriptionTitle | default "Start" }}
                                 </h3>
                             </a>
+                            <h3 class="custom-title-2" style="display: inline-block; margin: 0;"> 📚</h3>
                             <p class="long-description">
                                 {{ . }}
                             </p>

@@ -133,6 +133,16 @@ font-size: 1.4em;
     font-weight: bold;
 }
 
+.custom-title-2 {
+font-size: 1.4em;
+    line-height: 1.4em;
+    white-space: nowrap;
+    margin-top: 8pt;
+    margin-bottom: 8pt;
+    color: lightblue;
+    font-weight: bold;
+}
+
 article.main > div.home > div.recommend > div.left {
     padding-right: 25pt;
 }
