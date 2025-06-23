@@ -4,22 +4,6 @@
 
 @charset "UTF-8";
 
-/* Target the YouTube embed container and override its size */
-div[style*="padding-bottom: 56.25%"][style*="position: relative"] {
-  width: 420px !important;
-  height: 280px !important;
-  padding-bottom: 0 !important;
-  position: relative !important;
-  overflow: hidden !important;
-}
-
-/* Make the iframe fit the new container */
-div[style*="padding-bottom: 56.25%"][style*="position: relative"] iframe {
-  width: 420px !important;
-  height: 280px !important;
-  position: static !important;
-}
-
 .video-shortcode {
     max-width: 50%;
     max-height: 500px;
