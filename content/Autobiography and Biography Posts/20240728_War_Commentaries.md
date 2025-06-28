@@ -4,7 +4,7 @@ date = 2024-07-28T12:18:00-04:00
 draft = false
 +++
 
-![p1](/blog/20240728_War_Commentaries/cover.png)
+![p1](/blog/20240728_BR_War_Commentaries/cover.png)
 
 I try to read one biography or autobiography a year and I just finished reading the **War Commentaries of Caesar**, translated by *Rex Warner*. This book is the autobiographical account of Roman proconsul and general **Julius Caesar**, who has left us a first person account in great detail of his various military campaigns. The book is divided into two parts: **1)** *The Gallic Wars* (58-50 BC) and **2)** *The Civil Wars* (49-48 BC). Here’s a quick summary of the book: Caesar was able to take Gaul (present day France) and Britanni (present day U.K.) after much struggle, and was lauded as a hero back in Rome at the conclusion of the Gallic Wars. However disagreements with the Roman Senate and his once friend Pompey resulted in a bloody civil war where Romans were fighting other Romans around present day southern France, Spain, and North Africa. Pompey et al. subsequently lost the civil wars and Caesar appointed himself dictator, administered elections as a dictator, and thus changed the Roman Republic into the Roman Empire. Lesson learned: as much as people are lauded for their strengths and achievements, they also inevitably have weaknesses too.
 
