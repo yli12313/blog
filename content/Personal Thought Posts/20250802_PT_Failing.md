@@ -4,8 +4,6 @@ date = 2025-08-02T11:51:46-04:00
 draft = false
 +++
 
-Personal Thought: On Failing
-
 It sucks when you try things and they don’t work out. Just super frustrating when you do things and they don’t turn out to be what you expect or you can’t get it to work. I tried to build three different projects in my spare time this year and none have turned out the way that I thought they would. I just felt like the output was not good enough, so I decided to archive each project and move on to new projects. It’s always exciting to start something new; the beginning is so fun! And then you hit turbulence and roadblocks. You try, try, try and then realize the **sunk-cost fallacy** is way too overwhelming to continue. You abandon the project in the middle and it never really finishes or is in a state that makes it presentable. 
 
 * I tried to make a chess project that would enable me to analyze the moves of chess grand masters, with the hope that it would improve my chess game.
