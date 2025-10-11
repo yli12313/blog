@@ -5,3 +5,4 @@ Command to check the blog locally:
 `hugo server -D`
 
 Poet picture sizes are: 216 x 192
+Book picture sizes are: 133 x 226
