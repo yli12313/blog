@@ -2,3 +2,6 @@ baseURL = 'https://yli12313.github.io/blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'dark-theme-editor'
+
+[markup.goldmark.renderer]
+unsafe = true
