@@ -418,4 +418,12 @@ ul.section-tree ul.section-tree > li.file {
     aspect-ratio: 16 / 9;
 }
 
+/* Make YouTube videos larger on mobile devices */
+@media (max-width: 768px) {
+    .youtube-wrapper {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
 
