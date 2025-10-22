@@ -90,9 +90,11 @@
             {{ end }}
 
             {{ with $.Site.Params.footer.gitHash }}
-                <li title="{{ $.GitInfo.Subject }}">
-                    {{ $.GitInfo.AbbreviatedHash }}
-                </li>
+                {{ if $.GitInfo }}
+                    <li title="{{ $.GitInfo.Subject }}">
+                        {{ $.GitInfo.AbbreviatedHash }}
+                    </li>
+                {{ end }}
             {{ end }}
         </ul>
     </div>
