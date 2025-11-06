@@ -1,5 +1,5 @@
 +++
-title = 'Essay Review: On the Shortness of Life'
+title = 'Essay Review: On the Shortness of Life - Seneca'
 date = 2025-11-05T21:52:53-05:00
 draft = false
 +++
