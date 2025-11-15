@@ -1,5 +1,5 @@
 +++
-title = 'Personal Thought: Jay Shetty Podcast x Emma Watson'
+title = 'Jay Shetty Podcast Review: Emma Watson'
 date = 2025-10-12T16:21:34-04:00
 draft = false
 +++
