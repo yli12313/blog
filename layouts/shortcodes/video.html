@@ -1,4 +1,4 @@
-<video class="video-shortcode" preload="{{ .Get "preload" }}" {{ with .Get "poster" }}poster="{{ . }}"{{ end }} controls playsinline>
+<video class="video-shortcode" preload="{{ .Get "preload" }}" {{ with .Get "poster" }}poster="{{ . }}"{{ end }} controls>
     <source src="{{ .Get "src" }}#t=0.001" type="{{ .Get "type" }}">
     There should have been a video here but your browser does not seem
     to support it.
