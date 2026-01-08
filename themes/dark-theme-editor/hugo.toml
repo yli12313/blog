@@ -63,10 +63,10 @@
     [params.header]
 
         # Website title for browser tab (if not set, will use title above)
-        tabTitle = "Let's blog!"
+        tabTitle = "Do Something Great"
 
         # Website title for header banner.
-        title = "Excelsior: Ever Upward"
+        title = "Let's Blog!"
 
 
         ## My changes ##
