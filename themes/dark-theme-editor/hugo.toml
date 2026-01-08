@@ -61,10 +61,14 @@
 
     # Customized info shown in header of the page
     [params.header]
-        # Website title for header banner.
-        title = "Let's blog!"
 
-    
+        # Website title for browser tab (if not set, will use title above)
+        tabTitle = "Let's blog!"
+
+        # Website title for header banner.
+        title = "What we change inwardly will change outer reality. - Plutarch"
+
+
         ## My changes ##
         my_title = "Hey there netizen!"
         # Path to the stock image
