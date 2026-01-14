@@ -50,22 +50,7 @@
     {{ end }}
 
 
-    <title>
-        {{ if .IsHome }}
-            {{ if $.Site.Params.header.tabTitle }}
-                {{ $.Site.Params.header.tabTitle }}
-            {{ else }}
-                {{ $.Site.Params.header.title }}
-            {{ end }}
-        {{ else }}
-            {{ $.Page.Title }} |
-            {{ if $.Site.Params.header.tabTitle }}
-                {{ $.Site.Params.header.tabTitle }}
-            {{ else }}
-                {{ $.Site.Params.header.title }}
-            {{ end }}
-        {{ end }}
-    </title>
+    <title>Excelsior: Ever Upward</title>
 
     {{ with $.Site.Params.site.faviconUrl }}
         <link rel="icon" href="{{ . }}" />
