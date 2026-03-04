@@ -116,6 +116,15 @@ article.main > div.content img {
 }
 
 /**************
+     Video
+***************/
+article.main > div.content .video-shortcode {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+/**************
      Font
 ***************/
 article.main > div.content em {

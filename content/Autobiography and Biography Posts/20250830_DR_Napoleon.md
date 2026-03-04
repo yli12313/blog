@@ -14,9 +14,9 @@ Napoleon won a string of brilliant victories in Italy over the Austrian Empire a
 
 {{< youtube-sized g4e-cchUhh8 >}}
 
-I think Napoleon is both an inspiration and a cautionary tale. The lesson is to be industrious and ambitious, but never make the fatal mistake of thinking that one can never fail. The truth is that having confidence and humility in balance is what makes someone potent. Steering too far one way or the other will bite someone sooner or later. Here are some interesting quotes from the documentary.
+I think Napoleon is both an inspiration and a cautionary tale. The lesson is to be industrious and ambitious, but never make the fatal mistake of thinking that one can never fail. The truth is that having confidence and humility in balance is what makes someone potent. Steering too far one way or the other will bite someone sooner or later.
 
-Napoleon’s direct quotes referenced in the documentary that I found interesting:
+Here are some of Napoleon’s direct quotes referenced in the documentary that I found interesting:
 * “*They haven’t seen anything yet. In our time, no one has the slightest conception of what is great. It is up to me to give them an example*.”
 * “*From that moment I foresaw what I might be. Already I felt the Earth flee from beneath me, as if I were being carried into the sky*.”
 * “*Great men become great because they have been able to master luck. What the vulgar call luck is a characteristic of genius*.”
