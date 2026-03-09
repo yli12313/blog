@@ -25,3 +25,5 @@ Here are some of Napoleon’s direct quotes referenced in the documentary that I
 * “*Ambition is never content, even at the summit of greatness*.”
 
 As said best by one of the historians in the documentary on Napoleon’s mindset: “*He attacks everyday. He attacks when it snows, he attacks at night, he attacks when it’s cold. It’s not the way the game is played. He looks for the enemy, fights it, and when they assume that he’s going to stop, he continues. The next day he fights again. It surprises them*.” Bold, audacious, and daring. Yet this is what led to his downfall in the end. It’s true: our greatest strength ends up being our greatest weakness if we don’t develop a well-rounded character.
+
+![p2](/blog/20250830_DR_Napoleon/napoleon_sphinx.png)

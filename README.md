@@ -7,5 +7,8 @@ Command to check the blog locally:
 Poet picture sizes are: 216 x 192
 Book picture sizes are: 133 x 226
 
+Spell check one last time before posting to GitHub!
+
 Important links:
 * [picresize.com](https://picresize.com/)
+
