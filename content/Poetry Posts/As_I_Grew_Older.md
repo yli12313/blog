@@ -42,5 +42,5 @@ draft = false
 
 Think how many people had dreams as kids where they wanted to be something (i.e. an astronaut, author, business owner, etc.), but ended up somewhere not even close to what they once wanted? I can’t speak for women, but for men there’s a saying by **Henry David Thoreau**: “*Most men live lives of quiet desperation*.” The saying is so true. Many men (especially men in mid-life) desperately want to be someone or do something that makes them feel alive, but can’t anymore because of obligations and the limited mobility that obligations present. So they go back everyday to a job with no passion, no drive, and no sense of ownership, with no idea how to change the situation.
 
-Therefore I say to the young people: *Dare to dream greatly, have the bravery to go after your dreams, and protect your dreams at all costs*.
+Therefore I say to the young people: *Dare to dream greatly, be brave enough to go after your dreams, and protect your dreams at all costs*. *This is not selfish and don't apologize to anyone for this, ever*.
 
