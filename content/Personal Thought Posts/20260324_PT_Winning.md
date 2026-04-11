@@ -1,5 +1,5 @@
 +++
-title = 'Personal Thought On: Developing a Winning Mindset'
+title = 'Personal Thought: On Developing a Winning Mindset'
 date = 2026-03-24T16:49:02-04:00
 draft = false
 +++
