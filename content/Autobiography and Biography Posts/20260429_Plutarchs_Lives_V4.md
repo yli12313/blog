@@ -24,7 +24,7 @@ Alexander the Great of Macedonia is one of the lives Plutarch writes extensively
 
 * Alexander had unshakeable **self-belief**. He literally believed that he could do anything and that he was going to succeed in all that he did. Literally nothing fazed him, and that’s what made him an inspiring leader.
 * Alexander was characterized by a strong **obstinacy**. When he decided on an objective, he stopped at nothing to achieve that objective. He was never afraid of any danger in battle and often led from the frontlines. He was often personally injured in battles and had to be resuscitated back to nominal health, enduring extreme pain.
-* Alexander lived with **temperance** his whole life. He was not a big fan of food or the pleasures of life. Rather he partook in those things sparingly, almost viewing them like one would view a household chore. What did light his fire was glory and the possibility of making an impact on a grand scale.
+* Alexander lived with **temperance** his whole life. He was not a big fan of excess indulgence in food or the pleasures of life. Rather he partook in those things sparingly, almost viewing them like one would view a household chore. What did light his fire was glory and the possibility of making an impact on a grand scale.
 * Alexander was **magnanimous** with his materials, wealth, and mercy. He often treated his soldiers well, as well as the people he defeated in battle mercifully. He was fierce in battle, but also just as gracious when he did win. He respected friends and foes with courage and guts, because that’s who he was and he saw himself in anyone with those traits.
 
 To be continued as I work through more lives…
