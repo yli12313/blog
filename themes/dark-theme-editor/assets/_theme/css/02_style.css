@@ -165,10 +165,24 @@ article.main > nav#TableOfContents {
     margin-bottom: 20pt;
 }
 
+article.main > nav#TableOfContents:has(ul)::before {
+    content: "TABLE OF CONTENTS";
+    display: block;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-bottom: 8pt;
+    letter-spacing: 0.05em;
+}
+
 article.main > nav#TableOfContents ul {
     display: block;
     list-style-type: disc;
     padding-inline-start: 20px;
+}
+
+article.main > nav#TableOfContents > ul {
+    list-style-type: none;
+    padding-inline-start: 0;
 }
 
 article.main > nav#TableOfContents ul ul {
