@@ -60,14 +60,14 @@ At the end of the day, founders must always embody: *resilience*, *adaptability*
   4. **Develop the Go-to-Market (GTM) Plan and implement it**: This part I think a lot of people are familiar with. At this point the startup has achieved product-market fit and may have a few paying customers. Now it’s important to think about scaling and how to acquire even more customers. This is where Customer Acquisition Cost (CAC) and the stuff that you learn in business school comes in. I don’t have extensive thoughts on this part given that so few startups reach this stage, but for the startups fortunate enough to reach this stage, it’s a fun time where all the hard work is validated by paying customers! Develop a good *GTM plan* and execute aggressively.
 
 **Great questions to ask a potential investor**: This I’m taking verbatim from the book because I think these questions are excellent:
-* Questions on the Investor’s Experience
+* Questions on the **Investor’s Experience**
   * *How many deals have they done? Over what time frame?*
   * *When did they make their last deal?*
   * *Do they lead or co-invest alongside someone else?*
   * *Do they follow on or only make single investments?*
   * *What is the size of their average check?*
 
-* Questions on the Investor’s Personal Network
+* Questions on the **Investor’s Personal Network**
   * *Do they have experience in your domain?*
   * *Can they help with customer referrals?*
   * *Are they a former founder? Can they help coach you?*
