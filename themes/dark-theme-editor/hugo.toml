@@ -152,7 +152,7 @@
     # Parameters applied in the homepage only
     [params.homePage]
         # Long Descripition shown in home page "Start Block". Is is recommended to have the paragraph shorter than 100 words.        
-        siteLongDescription = "Welcome to the launch of my blog! This is a place for me to curate and blog about my learnings. I hope to focus on a few different topics like: engineering, finance, liberal arts, and my own thoughts. Maybe it will help you too. Thank you for checking out my blog! Feel free to reach out at [yli12313@vt.edu] if I can help serve! - Y"
+        siteLongDescription = "Welcome to the launch of my blog! This is a place for me to curate and blog about my learnings. I hope to focus on a few different topics like: engineering, finance, liberal arts, and my own thoughts. Maybe it will help you too. Thank you for checking out my blog! Feel free to reach out at <a href=\"mailto:yli12313@vt.edu\" style=\"color:#74b9ff;text-decoration:underline;font-weight:bold;\">yli12313@vt.edu</a> if I can help serve! - Y"
 
         # If you don't like the title of "siteLongDescription" be "Start" (default), 
         # you may change the value of this item to "Description" or something you like.
