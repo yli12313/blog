@@ -1,5 +1,5 @@
 +++
-title = 'Exhibition Match: France 🇫🇷 vs. Columbia 🇨🇴'
+title = 'Exhibition Match: France 🇫🇷 vs. Columbia 🇨🇴 (Mar. 2026)'
 date = 2026-06-30T23:55:05-04:00
 draft = false
 +++
