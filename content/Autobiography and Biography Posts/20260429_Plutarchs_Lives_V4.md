@@ -33,7 +33,7 @@ Alexander the Great of Macedonia is one of the lives Plutarch writes extensively
 
 <br>
 
-![p1](/blog/20260429_Plutarchs_Lives/caesar.png)
+![p3](/blog/20260429_Plutarchs_Lives/caesar.png)
 
 **Julius Caesar**
 
@@ -43,14 +43,13 @@ Julius Caesar is one of the most impressive people in all of human history in te
 
 Caesar then rose through the ranks of the Roman political establishment and formed The First Triumvirate with Pompey (Rome’s greatest general at the time) and Crassus (Rome’s richest person) in 60 BC; together the three wielded power like no others. In 59 BC he was elected consul and then in 58 BC a five year proconsul command of Gaul (present day France), thereby accumulating even more power. Caesar at this point was also heavily in debt from putting out public spectacles (gladiator fights, statue building, trophy commemorations, etc.) to garner political support among the Roman populace. His solution was to escalate the situation in Gaul and engender a full-blown military conflict: the Gallic Wars (which I’ve written about extensively **[here](https://yli12313.github.io/blog/autobiography-and-biography-posts/20240728_br_war_commentaries/)**). The Gallic Wars were a vicious affair, but Caesar achieved total dominance over all of Gaul after the Battle of Alesia (52 BC) with the surrender of Vercingetorix.
 
-![p1](/blog/20260429_Plutarchs_Lives/alesia.png)
+![p4](/blog/20260429_Plutarchs_Lives/alesia.png)
 
-After the Gallic Wars, Caesar had political enemies in the Roman establishment who wanted to take him down given his immense success and power accumulation. The Senate demanded that he disband his army, but Caesar refused and famously marched on Rome by crossing the Rubicon River. A civil war then ensued where Caesar was victorious over his once political ally Pompey. During the Civil Wars, Caesar chased Pompey to Egypt and that’s where he met Cleopatra, and the two had a son.
+After the Gallic Wars, Caesar had political enemies in the Roman establishment who wanted to take him down a notch given his immense success and power accumulation. The Senate demanded that he disband his army, but Caesar refused. At this point, Caesar and Pompey were no longer allies but bitter rivals. Pompey aligned himself with the Senate and Caesar aligned himself with his battle-tested army under his sole control. Debating whether to take on the powers of the Roman Republic knowing that he was vastly outnumbered and outgunned, Caesar decided to do it anyway and famously marched on Rome by crossing the Rubicon River, which was a point of no return. This is where we get the expression used today: “crossing the Rubicon.” A civil war then ensued where Caesar was victorious over his once political ally Pompey, with a decisive victory at the Battle of Pharsalus (48 BC). During the Civil Wars, Caesar chased Pompey to Egypt and that’s where he met Cleopatra, and the two had a son.
 
 After the Civil Wars, Caesar returned to Rome as a dictator and had absolute control. He implemented reforms very fast according to his ideals, which alarmed his political enemies in the Senate as well as the populace that once loved him unconditionally. His enemies feared his powers and formed a secret plot to assassinate him, with his trusted advisor Brutus in on the action. On the Ides of March in 44 BC, Caesar was assassinated in the Roman Senate building when the conspirators all pulled out daggers and each stabbed him in an enclosed circle. Ironically, this happened under a statue of Pompey of all people; can we say spooky?! What we can learn from Caesar:
 * Caesar was of **good humor** and **affability**. He was able to transcend and relate to people of different classes: high society and the upper class, the populace and the middle to lower class, soldiers that were deeply loyal, and even outlaws like the pirates.
 * Caesar was a man of **action** and **ambition**. Caesar was not afraid to go after what he wanted and did things with vigor and vitality.  
 * Caesar’s **thirst for power** led to his **downfall**. The strengths that made him such a good statesman and military commander led to his downfall during his dictatorship. By that time, he lost the pulse of the Roman Senate. As his powers grew, many senators feared the loss of the Roman Republic.
-
 
 To be continued as I work through more lives…
