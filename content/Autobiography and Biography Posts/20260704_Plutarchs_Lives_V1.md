@@ -30,4 +30,4 @@ Back to Fabius! Fabius was one of the few people who saw with clear vision what 
 * Fabius was very **deliberate in his speech**. He thought things through before speaking, and spoke with a sense of eloquence and deep wisdom. 
 * Known as “the delayer”, Fabius was both **cautious** and **confident** in his actions. He often took a lot of time to make plans and think things through very carefully. Then with everything set up, he was totally ready to put things into action.
 * Fabius showed **tranquility** and **unconcern** when he was attacked by his political enemies. He did not react to personal attacks nor did he retaliate, showing total grace. 
-* Towards the end of his career, Fabius let **pusillanimity** (fear of risk taking) and **jealousy** get to him and he tried to stop Scipio Africanus’ success by “delaying” things for the young general. 
+* Towards the end of his career, Fabius let **pusillanimity** (fear of risk taking) and **jealousy** get to him and he tried to stop Scipio Africanus’ success by “delaying” things for the younger and rising general. 
