@@ -11,4 +11,3 @@ Spell check one last time before posting to GitHub!
 
 Important links:
 * [picresize.com](https://picresize.com/)
-

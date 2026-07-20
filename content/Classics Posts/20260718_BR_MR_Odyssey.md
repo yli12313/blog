@@ -6,4 +6,4 @@ draft = false
 
 ![p1](/blog/20260718_BR_MR_Odyssey/homer.png)
 
-I finished reading The **Odyssey** by Homer (Greek poet) and watched The Odyssey (Chris Nolan) on Fri. 7/17/26! I finished reading the book on the same day that the movie came out. I will write a detailed review of both because I've learned a lot by immersing myself in the Odyssey!
+I finished reading The **Odyssey** by Homer (Greek poet) and watched The Odyssey by Christopher Nolan on Fri. 7/17/26! I finished reading the book on the same day that the movie came out. I will write a detailed review of both because I've learned a lot by immersing myself in The Odyssey!
