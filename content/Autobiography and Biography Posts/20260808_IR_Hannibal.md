@@ -8,6 +8,8 @@ draft = false
 
 ![p1](/blog/20260808_IR_Hannibal/hannibal.png)
 
+> "God has given to man no sharper spur to victory than contempt of death." - Hannibal
+
 **Hannibal Barca of Carthage** (247 BC - 183-181 BC) is one of the most interesting historical figures of all time, at least to me. As an amateur historian, I’ve studied Hannibal’s campaigns in the Second Punic War for many years now. Not to brag, but this is one of the few topics that I do consider myself an *expert* in. I first learned about the Legend of Hannibal from one of my teachers in either 7th or 8th grade (I still vividly remember the exact moment when he talked to us about this). I’ve never forgotten about Hannibal’s story because it’s a story that’s stranger than fiction, but it’s one of the best underdog stories that’s ever been recorded in human history. I’ve personally: read one book, watched one movie, watched multiple documentaries, and read multiple articles on Hannibal. He’s a big inspiration to me and a historical figure that has given me enormous strength over the years. Let me summarize everything that I’ve learned over the course of at least 15+ years.  
 
 ### Background Context
