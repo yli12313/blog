@@ -43,6 +43,10 @@ article.main > div.content h3 {
     font-size: 1.4rem;
 }
 
+article.main > div.content h4 {
+    font-size: 106%;
+}
+
 /**************
    Paragraph
 ***************/
