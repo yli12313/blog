@@ -16,7 +16,7 @@ I decided to read **The Odyssey** by *Homer* (Greek poet) end-to-end as a person
 
 The Odyssey has 24 books that have a nonlinear narrative structure. One has to pay very careful attention to find out if the current events described are happening now or have already happened in the past. There’s lots of flashbacks and sometimes even flashbacks of flashbacks as you read the book. I’m going to summarize the book’s 24 chapters as how they appear in the book first and then I’m going to summarize the book in how the plot actually plays out. Only read this section if you don’t want spoilers for the movie!
 
-#### Summary by Chapter in Chronological Order
+#### Summary by Books in Chronological Order
 
 <u>**The Telemachy (Books 1-4)**</u>: *Odysseus does not appear. The poem opens on Telemachus, the son he left behind, and on an Ithaca where his household is being ravaged by the wooers.*
 * **Book 1 (Ithaca) - The gods in council; Athene rouses Telemachus**: Poseidon is away visiting the Ethiopians, so Athene uses his absence to get Zeus to agree that Odysseus can finally come home. She goes down to Ithaca disguised as a visiting sea-captain named Mentes. What she finds is a house full of men who have moved in, are eating their way through the family herds, and are pressuring Odysseus’ wife Penelope to pick one of them and remarry. She tells Telemachus that his father is still alive, and that he needs to stop sulking and act: call a public meeting, then go find news of Odysseus himself. That night, for the first time in his life, Telemachus sends his mother upstairs and tells the wooers to their faces that the house is his.
