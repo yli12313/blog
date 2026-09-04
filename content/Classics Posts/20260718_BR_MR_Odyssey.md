@@ -51,7 +51,7 @@ The Odyssey has 24 books that have a nonlinear narrative structure. One has to p
 
 #### Summary by Events in Chronological Order
 
-* **Trojan War (10 years)**:
+* **Trojan War (10 Years)**:
   * *Books 1, 4, 8* - Odysseus fights in the Trojan War for a decade, trying to retrieve Helen. This sets up why he must journey home.
 
 * **10-Year Journey Home**:
