@@ -60,10 +60,10 @@ The Odyssey has 24 books that have a nonlinear narrative structure. One has to p
   * *Book 11* - Odysseus visits the Underworld to consult the prophet Tiresias about his fate. He speaks with the dead, including Achilles and his own mother.
   * *Book 12* - He passes the Sirens (whose song lures sailors to death), navigates between Scylla and Charybdis (a monster and whirlpool), and loses men to Helios's sacred cattle. His ship is destroyed in a storm.
 
-* **Calypso’s Island (7 years)**:
+* **Calypso’s Island (7 Years)**:
   * *Books 5, 12* - Odysseus washes ashore on Calypso's island, where the goddess holds him captive for seven years, offering immortality if he stays.
 
-* **Suitors in Ithaca (Present time)**:
+* **Suitors in Ithaca (Present Time)**:
   * *Books 1-4* - While Odysseus is trapped, over a hundred suitors invade his palace, pursuing his wife Penelope and consuming his wealth. His son Telemachus, now grown, searches for news of his father.
 
 * **Leaves Calypso**:
