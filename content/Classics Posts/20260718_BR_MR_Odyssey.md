@@ -100,7 +100,7 @@ Lastly in the book, Homer mentioned that the protagonists always followed their 
 >  
 > "Nought feebler doth the earth nurture than man, of all  
 > the creatures that breathe and move upon the face of the earth.  
-> Lo, he thinks that he shall never suffer evil in time to.come,  
+> Lo, he thinks that he shall never suffer evil in time to come,  
 > while the gods give him happiness, and his limbs move  
 > lightly. But when again the blessed gods have wrought for him  
 > sorrow, even so he bears it, as he must, with a steadfast heart.  
@@ -117,4 +117,6 @@ Lastly in the book, Homer mentioned that the protagonists always followed their 
 
 ![p2](/blog/20260718_BR_MR_Odyssey/movie.png)
 
-*To be continued; still working on this…*
+I had no idea what to expect with respect to The Odyssey (the movie). I think I first saw a trailer for the movie sometime in 2025 and had anticipated seeing the movie for >1 year. I’ve been a fan of Christopher Nolan for many years, with some of his movies I liked more than others (the ones I liked: The Batman Trilogy, Inception, The Prestige; the ones that were ok to me: Oppenheimer, Tenet, and Interstellar). The Odyssey was a big-budget film distributed by Universal with many A-list actors and actresses (Matt Damon, Tom Holland, Anne Hathaway, Travis Scott makes a cameo, etc.). I thought that given such fanfare along with the Nolan name, I was afraid I would be disappointed by the movie. I was honestly not sure if the movie was going to live up to the hype!
+
+After doing my homework by reading the book and then seeing the movie on opening night, I left the theaters after ~3 hours of watching The Odyssey absolutely jazzed because the experience was UNFORGETTABLE! The movie was EXCELLENT! I would say that the movie is not in Nolan’s top tier of best movies ever (i.e. The Batman Trilogy and Inception), but just a shade under in terms of his best works. The Odyssey was definitely better than Oppenheimer and in my opinion, it's not even close. I think the movie's cinematography was excellent as well as the acting. I really liked how they mirrored the plot of the book so well; it was really special for me to see the movie after having read the book. I can understand how if someone had not read the book they would get confused by all the moving pieces, plotlines, and nuances, but I believe I was able to understand the movie in a way that was deeper than the ordinary person by doing my homework. I saw and understood all the backflashes, subtleties, fictional characters, and the nonlinear narrative. Very rarely do you see a movie in theaters that leaves a big impression on you. The Odyssey is one that has definitely left a deep impression on me after seeing it. This rarely happens to me, in fact it’s probably been 10 years since I saw a movie in theaters that has left a deep impression. Delving head first into Homer’s epic poem in June/July, 2026 is a memory I will never forget! This was one of the highlights of my year and has brought me a lot of joy.
