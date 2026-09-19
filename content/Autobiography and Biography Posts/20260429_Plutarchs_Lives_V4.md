@@ -16,9 +16,9 @@ I’ve started reading the book **[Plutarch’s Lives](https://en.wikipedia.org/
 
 <br>
 
-### Alexander the Great
-
 ![p2](/blog/20260429_Plutarchs_Lives/alexander.png)
+
+### Alexander the Great
 
 > “My son," said she, "thou art invincible.” - Said to Alexander by the Oracle of Apollo at Delphi
 
@@ -35,9 +35,9 @@ Alexander the Great of Macedonia (356-323 BC) is one of the lives Plutarch write
 
 <br>
 
-### Julius Caesar
-
 ![p3](/blog/20260429_Plutarchs_Lives/caesar.png)
+
+### Julius Caesar
 
 > “The die is cast.” - Julius Caesar as He Crossed the Rubicon River
 

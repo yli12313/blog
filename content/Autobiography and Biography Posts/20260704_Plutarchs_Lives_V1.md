@@ -16,9 +16,9 @@ I’ve started reading the book **[Plutarch’s Lives](https://en.wikipedia.org/
 
 <br>
 
-### Fabius Maximus
-
 ![p1](/blog/20260429_Plutarchs_Lives/fabius.png)
+
+### Fabius Maximus
 
 > “But I am not derided.” - Fabius' Attitude When Political Enemies Tried to Humiliate Him  
 >   

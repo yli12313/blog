@@ -107,12 +107,14 @@ Lastly in the book, Homer mentioned that the protagonists always followed their 
 > For the spirit of men upon the earth is even as their day,  
 > that comes upon them from the father of gods and men."  
 >  
-> "Endure, my heart; yea, abaserthing thou once didst bear,  
+> "Endure, my heart; yea, a baser thing thou once didst bear,  
 > on that day when the Cyclops, unrestrained in fury, devoured  
 > the mighty men of my company; but still thou didst endure  
 > till thy craft found a way for thee forth from out the cave,  
 > where thou thoughtest to die."  
 
 ### The Odyssey (Movie Review)
+
+![p2](/blog/20260718_BR_MR_Odyssey/movie.png)
 
 *To be continued; still working on this…*
