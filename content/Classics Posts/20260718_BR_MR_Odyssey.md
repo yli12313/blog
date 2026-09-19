@@ -18,7 +18,7 @@ The Odyssey has 24 books that have a nonlinear narrative structure. One has to p
 
 #### Summary by Books in Chronological Order
 
-<u>**The Telemachy (Books 1-4)**</u>: *Odysseus does not appear. The poem opens with Telemachus, the son he left behind, and on an Ithaca where his household is being ravaged by the wooers.*
+<u>**The Telemachy (Books 1-4)**</u>: *Odysseus does not appear. The poem opens with Telemachus, the son he left behind, and on the island of Ithaca where his household is being ravaged by the wooers.*
 * **Book 1 (Ithaca) - The gods in council; Athene rouses Telemachus**: Poseidon is away visiting the Ethiopians, so Athene uses his absence to get Zeus to agree that Odysseus can finally come home. She goes down to Ithaca disguised as a visiting sea-captain named Mentes. What she finds is a house full of men who have moved in, are eating their way through the family herds, and are pressuring Odysseus’ wife Penelope to pick one of them and remarry. She tells Telemachus that his father is still alive, and that he needs to stop sulking and act: call a public meeting, then go find news of Odysseus himself. That night, for the first time in his life, Telemachus sends his mother upstairs and tells the wooers to their faces that the house is his.
 * **Book 2 (Ithaca) - The assembly and Telemachus sails by night**: Telemachus gathers the men of Ithaca and asks them to make the wooers leave. Antinous, the worst of them, turns it around and blames Penelope. For three years, he says, she has been stalling: she promised to choose a husband once she finished weaving a burial cloth for Odysseus’ father, and every night she quietly unpicked what she had woven that day, until one of her maids told on her. The assembly does nothing. So Athene, now disguised as an old family friend called Mentor, quietly finds Telemachus a ship and a crew, and he sails for Pylos after dark without telling his mother he is going.
 * **Book 3 (Pylos) - Nester at Pylos**: Nestor, who is very old and fought at Troy, welcomes Telemachus in the middle of a beach sacrifice and talks. He explains how the Greek army fell apart into arguing factions after the war and sailed home in scattered groups, and how Agamemnon came home to be murdered by his wife’s lover, and how Agamemnon’s son Orestes grew up and killed the murderer. That story is not idle chat. It is what a young man is supposed to do when his father’s house is stolen, and Telemachus is meant to hear it that way. But Nestor has no news of Odysseus, so he sends the boy on to Sparta by chariot with his own son as company.
@@ -82,5 +82,37 @@ The Odyssey has 24 books that have a nonlinear narrative structure. One has to p
   * *Book 24* - Odysseus makes peace with the families of the dead suitors, restoring order to Ithaca.
 
 #### My Thoughts Overall and Some Quotes
+The Odyssey is definitely one of the most challenging books I’ve ever read. At one point, I doubted that I would be able to finish reading the book and understand things! I felt intimidated by the nonlinear narrative structure and all the moving pieces. It felt like I would never understand the plot. Yet by pushing slowly but surely I was able to march my way through the book. Everytime I did not understand something fully, I took action to make sure I understood it better. In a way, this slow, but steady progress I made mirrored Odysseus as he made his way back home to Ithaca. Throughout the book, Odysseus himself had moments of doubt about his future, Penelope had doubts about her existence trapped with the wooers, and Telemachus had doubts about whether his father was alive, and if so whether he would ever see Odysseus again. It speaks to the human condition that even when we are afraid or the future seems bleak, the only thing to do that gives someone a chance is to keep going and to keep pushing. 
+
+I also thought in the book it was interesting that Odysseus, Penelope, and Telemachus were described using adjectives such as “*great-hearted*”, “*hardy-hearted*”, “*wise*”, “*godlike*”, etc.; whereas the wooers like Antinous were not described with adjectives, but described through their actions which were motivated by anger, greed, and treachery. In a way, I think Homer is saying that good character is more or less a choice a person can make, and not something that’s predetermined. Good character is corrupted around the wrong people and it takes real courage to do what you know is right, even if the mob is against you. It took real strength for Odysseus to keep going when there were so many obstacles. It took real strength for Penelope to deal with the wooers year after year, trapped in her own house. It took real courage for Telemachus to seek out his father, and reject the status quo.
+
+Lastly in the book, Homer mentioned that the protagonists always followed their “*heart*.” This concept of following one’s own path is an idea that’s expressed by many different authors of the ancient world as well as those present today. It may be dangerous and a total adventure when you choose to follow your own intuition, but it equals freedom at the end of the day. Odysseus was finally able to go home to Ithaca and for us, we become the best versions of ourselves when we choose the road not taken with winding paths and bumps along the way. I learned a lot and these are some of my favorite quotes from The Odyssey:
+
+> "Take courage and be not so sorely afraid."  
+>  
+> "Yea, and if some god shall wreck me  
+> in the wine-dark deep, even so I will endure, with a heart  
+> within me patient of affliction."  
+>  
+> "enter then, and fear not  
+> in thine heart, for the dauntless man is the best in every  
+> adventure, even though he come from a strange land."  
+>  
+> "Nought feebler doth the earth nurture than man, of all  
+> the creatures that breathe and move upon the face of the earth.  
+> Lo, he thinks that he shall never suffer evil in time to.come,  
+> while the gods give him happiness, and his limbs move  
+> lightly. But when again the blessed gods have wrought for him  
+> sorrow, even so he bears it, as he must, with a steadfast heart.  
+> For the spirit of men upon the earth is even as their day,  
+> that comes upon them from the father of gods and men."  
+>  
+> "Endure, my heart; yea, abaserthing thou once didst bear,  
+> on that day when the Cyclops, unrestrained in fury, devoured  
+> the mighty men of my company; but still thou didst endure  
+> till thy craft found a way for thee forth from out the cave,  
+> where thou thoughtest to die."  
+
+### The Odyssey (Movie Review)
 
 *To be continued; still working on this…*

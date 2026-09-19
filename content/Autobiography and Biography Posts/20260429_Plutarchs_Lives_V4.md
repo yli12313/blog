@@ -16,9 +16,9 @@ I’ve started reading the book **[Plutarch’s Lives](https://en.wikipedia.org/
 
 <br>
 
-![p2](/blog/20260429_Plutarchs_Lives/alexander.png)
-
 ### Alexander the Great
+
+![p2](/blog/20260429_Plutarchs_Lives/alexander.png)
 
 > “My son," said she, "thou art invincible.” - Said to Alexander by the Oracle of Apollo at Delphi
 
@@ -35,9 +35,9 @@ Alexander the Great of Macedonia (356-323 BC) is one of the lives Plutarch write
 
 <br>
 
-![p3](/blog/20260429_Plutarchs_Lives/caesar.png)
-
 ### Julius Caesar
+
+![p3](/blog/20260429_Plutarchs_Lives/caesar.png)
 
 > “The die is cast.” - Julius Caesar as He Crossed the Rubicon River
 
@@ -55,4 +55,4 @@ After the Civil Wars, Caesar returned to Rome as a dictator and had absolute con
 * Caesar was a man of **action** and **ambition**. Caesar was not afraid to go after what he wanted and did things with vigor and vitality.  
 * Caesar’s **thirst for power** led to his **downfall**. The strengths that made him such a good statesman and military commander led to his downfall during his dictatorship. By that time, he lost the pulse of the Roman Senate. As his powers grew, many senators feared the loss of the Roman Republic.
 
-To be continued as I work through more lives…
+To be continued as I work through more Lives…
