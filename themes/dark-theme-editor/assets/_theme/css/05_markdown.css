@@ -101,6 +101,10 @@ article.main > div.content li {
     margin: 6pt 0pt;
 }
 
+article.main > div.content li > p + p {
+    margin-top: 6pt;
+}
+
 article.main > div.content li li {
     margin: 4pt 0pt;
 }
