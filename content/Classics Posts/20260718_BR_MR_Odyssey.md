@@ -90,13 +90,12 @@ Lastly in the book, Homer mentioned that the protagonists always followed their 
 
 > "Take courage and be not so sorely afraid."  
 >  
-> "Yea, and if some god shall wreck me  
-> in the wine-dark deep, even so I will endure, with a heart  
-> within me patient of affliction."  
+> "Yea, and if some god shall wreck me in the wine-dark deep,  
+> even so I will endure, with a heart within me patient of affliction."  
 >  
-> "enter then, and fear not  
-> in thine heart, for the dauntless man is the best in every  
-> adventure, even though he come from a strange land."  
+> "Enter then, and fear not in thine heart, for the dauntless man  
+> is the best in every adventure, even though he come from a strange  
+> land."  
 >  
 > "Nought feebler doth the earth nurture than man, of all  
 > the creatures that breathe and move upon the face of the earth.  
