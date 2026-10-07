@@ -55,4 +55,6 @@ After Cannae, the war had been going on for around two years and Hannibal at tha
 * *Caulonia (209 BC)*: Hannibal relieves the besieged town and forces a Roman army of about 8,000 to surrender.
 * *Trap in Venusia (208 BC)*: Hannibal pulls off an ambush and the sitting Roman consuls Marcellus and Titus Quinctius are both killed in one day. Marcellus had been harassing Hannibal and his troops for years in the form of hit-and-run attacks. This ambush leaves the Roman military command leaderless and from the top, and is one of Hannibal’s most daring and most underrated maneuvers.
 
+#### The End of the War
+
 *To be continued; still working on this…*
