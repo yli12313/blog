@@ -23,7 +23,7 @@ Hannibal was born in Carthage (247 BC), along with brothers Hasdrubal Barca, Mag
 ### The Second Punic War (218 BC - 201 BC)
 
 ![p3](/blog/20260808_IR_Hannibal/map2.png)    
-*Hannibal's journey in the Italian heartland.*
+*Hannibal's journey into the Italian heartland.*
 
 #### Crossing the Alps
 
