@@ -52,7 +52,7 @@ After Cannae, the war had been going on for around two years and Hannibal at tha
 * *First Herdonia (212 BC)*: Hannibal WINS a battle by setting an ambush on the poorly trained soldiers of the praetor Fulvius Flaccus, killing ~16K out of a total of ~18K soldiers.
 * *Capture of Tarentum (212 BC)*: Hannibal takes a major southern port at night with help from conspirators inside the city, though the Roman garrison holds the citadel.
 * *Second Herdonia (210 BC)*: Hannibal WINS a battle by surprising the proconsul Fulvius. Fulvius is killed, his army destroyed, and the city of Herdonia burned down.
-* *Caulonia (209 BC)*: Hannibal relieves the besieged town and forces a Roman army of about 8,000 to surrender.
+* *The Rescue of Caulonia (209 BC)*: Hannibal relieves the besieged town of Caulonia and forces a Roman army of about ~8K to surrender.
 * *Trap in Venusia (208 BC)*: Hannibal pulls off an ambush and the sitting Roman consuls Marcellus and Titus Quinctius are both killed in one day. Marcellus had been harassing Hannibal and his troops for years in the form of hit-and-run attacks. This ambush leaves the Roman military command leaderless from the top, and is one of Hannibal’s most daring and most underrated maneuvers.
 
 #### The End of the War
