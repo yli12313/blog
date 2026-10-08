@@ -1,0 +1,6 @@
+{{- /*
+  Anchor for a source in a bulleted sources list; clicking it jumps back to the first citation.
+  Usage: * {{< source 1 >}} Author, *Title* (Year).
+*/ -}}
+<a id="src-{{ .Get 0 }}" href="#cite-{{ .Get 0 }}" class="source" style="scroll-margin-top: 4rem; color: #4eba65; font-weight: 600; text-decoration: none;">[{{ .Get 0 }}]</a>
+{{- /* trailing newline trimmed */ -}}
