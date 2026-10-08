@@ -91,7 +91,7 @@ If you’ve made it this far, I commend you because this was a long, dense blog 
 Hannibal has been a role model and inspiration for many people throughout history, including myself. He’s the pride of Africa and a true role model for any **underdog** to not quit, keep going, and push always to the very end. He was the ultimate underdog in the Second Punic War. He may not have won the war, but that doesn’t erase what he did accomplish and what he showed was possible in the most adverse conditions. This is why he's still remembered 2000+ years later. These lessons I have never forgotten since I first learned about Hannibal’s story when I was a young person. I will continue to try to implement them each and every day! Hannibal, we salute you for being a great example of what real resilience looks like. 🫡
 
 ### Bibliography
-* {{< source 1 >}} “Hannibal.” Wikiquote, Wikimedia Foundation, 20 Mar. 2026, en.wikiquote.org/wiki/Hannibal.
+* {{< source 1 >}} “Hannibal.” Wikiquote, Wikimedia Foundation, 20 Mar. 2026, [en.wikiquote.org/wiki/Hannibal](en.wikiquote.org/wiki/Hannibal).
 * {{< source 2 >}} Mark, Joshua J. “Map of the Rise & Fall of Carthaginian Power, c. 650–146 BCE.” World History Encyclopedia, 29 May 2020, [www.worldhistory.org/image/20574/map-of-the-rise--fall-of-carthaginian-power-c-650/](https://www.worldhistory.org/uploads/images/20574.png?v=1781798838-1781798872).
 * {{< source 3 >}} “Hamilcar Barca.” Wikipedia, Wikimedia Foundation, 9 Sept. 2026, [en.wikipedia.org/wiki/Hamilcar_Barca](en.wikipedia.org/wiki/Hamilcar_Barca).
 * {{< source 4 >}} “Hannibal.” Wikipedia, Wikimedia Foundation, 9 Sept. 2026, [en.wikipedia.org/wiki/Hannibal](en.wikipedia.org/wiki/Hannibal).
